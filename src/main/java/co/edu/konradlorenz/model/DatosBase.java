@@ -8,6 +8,12 @@ package co.edu.konradlorenz.model;
  *
  * @author dfpar
  */
-public class Modelo {
+public class DatosBase {
+    
+    private String nombre;
+    private int edad, peso, imc;
+    private double altura;
+    
+    
     
 }
